@@ -2,6 +2,8 @@
 
 Theme for vim-airline: https://github.com/bling/vim-airline
 
+This is a fork of [vim-airlineish](https://github.com/paranoida/vim-airlineish) just replacing the Replace and Visual colors to matching vibrant colors.
+
 ### How to install:
 
 Neobudle:
