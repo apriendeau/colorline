@@ -9,13 +9,13 @@ let s:I2 = [ '#ffffff' , '#00afff' , 15 , 39  ]
 let s:I3 = [ '#ffffff' , '#121212' , 15 , 233 ]
 
 " Visual mode
-let s:V1 = [ '#121212' , '#ff5f00' , 233 , 202 ]
-let s:V2 = [ '#121212' , '#ffaf00' , 233 , 214 ]
-let s:V3 = [ '#ffffff' , '#121212' , 15  , 233 ]
+let s:V1 = [ '#ffffff' , '#00af5f' , 15 , 34 ]
+let s:V2 = [ '#ffffff' , '#00d75f' , 15 , 40 ]
+let s:V3 = [ '#ffffff' , '#121212' , 15 , 233 ]
 
 " Replace mode
-let s:R1 = [ '#ffffff' , '#ff0000' , 15 , 196 ]
-let s:R2 = [ '#ffffff' , '#ff5f5f' , 15 , 203 ]
+let s:R1 = [ '#ffffff' , '#af005f' , 15 , 125  ]
+let s:R2 = [ '#ffffff' , '#ff0087' , 15 , 198 ]
 let s:R3 = [ '#ffffff' , '#121212' , 15 , 233 ]
 
 let g:airline#themes#airlineish#palette = {}
