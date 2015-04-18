@@ -17,7 +17,7 @@ let s:V3 = [ '#ffffff' , '#121212' , 15 , 233 ]
 let s:R1 = [ '#ffffff' , '#af005f' , 15 , 125  ]
 let s:R2 = [ '#ffffff' , '#ff0087' , 15 , 198 ]
 let s:R3 = [ '#ffffff' , '#121212' , 15 , 233 ]
-
+let g:airline#themes#colorline#palette = {}
 let g:airline#themes#colorline#palette.normal = airline#themes#generate_color_map(s:N1, s:N2, s:N3)
 let g:airline#themes#colorline#palette.insert = airline#themes#generate_color_map(s:I1, s:I2, s:I3)
 let g:airline#themes#colorline#palette.visual = airline#themes#generate_color_map(s:V1, s:V2, s:V3)
