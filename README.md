@@ -31,9 +31,6 @@ git clone https://github.com/apriendeau/colorline.git
 
 Add `let g:airline_theme = 'colorline'` to your vimrc.
 
-### Preview:
-![Vim Airlineish Theme](https://raw.github.com/paranoida/vim-airlineish/master/preview.gif)
-
 ---
 ### License:
 
